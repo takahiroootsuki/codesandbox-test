@@ -3,7 +3,7 @@ console.log("assaabbcssssss");
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
 <p>test2</p>
-<p>修正しました</p>
+<p>修正しました1</p>
 <div>
   We use the same configuration as Parcel to bundle this sandbox, you can find more
   info about Parcel 
